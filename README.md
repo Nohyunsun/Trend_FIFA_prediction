@@ -292,7 +292,8 @@ Rather than predicting a single fixed winner, the model estimates each team's li
 ├── goalscorers.csv
 ├── former_names.csv
 ├── output/
-│   └── worldcup_2026_winning_probability.csv
+│   └── worldcup_2026_champion_prediction.csv
+|   └── worldcup_2026_team_strength.csv
 └── README.md
 ```
 
